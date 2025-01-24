@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🧑‍💻 Linguagens: Comecei no <strong>pascal</strong>, depois <strong>Java</strong>, <strong>JavsScript</strong>, e agora estou estudando <strong>C++</strong>.
+  🧑‍💻 Linguagens: Comecei no <strong>pascal</strong>, depois <strong>Java</strong>, <strong>JavaScript</strong>, e agora estou estudando <strong>C++</strong>.
 </p>
 
 <p align="left">
